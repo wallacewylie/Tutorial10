@@ -2,6 +2,8 @@
 public class App {
     public static void main(String[] args) {
 
+
+        // an array is a reference type
         int[] values;
 
         values = new int[3];
